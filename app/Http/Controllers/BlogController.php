@@ -10,7 +10,7 @@ class BlogController extends Controller
 {
     /**
      * Display a listing of the resource.
-     * Shahid
+     * Khan
      *
      * @return \Illuminate\Http\Response
      */
